@@ -1,2 +1,2 @@
-# capston2
+# AlmaBtter_project2
 AIRBNB_EDA
